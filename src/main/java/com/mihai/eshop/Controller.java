@@ -8,6 +8,6 @@ public class Controller {
 
 	@GetMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot! Test";
+		return "Greetings from Spring Boot! Test 2";
 	}
 }
